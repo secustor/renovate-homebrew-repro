@@ -1,8 +1,8 @@
 class ClaudeCode < Formula
   desc "Anthropic's official CLI for Claude"
   homepage "https://www.anthropic.com/claude-code"
-  url "https://registry.npmjs.org/@anthropic-ai/claude-code/-/claude-code-2.0.20.tgz"
-  sha256 "345eae3fe4c682df3d8876141f32035bb2898263ce5a406e76e1d74ccb13f601"
+  url "https://registry.npmjs.org/@anthropic-ai/claude-code/-/claude-code-2.1.5.tgz"
+  sha256 "a4958690ab469fc0c832e1dcf8bc614b4b5ae27c6b67228939dd2a5df00ced52"
   license "Proprietary"
 
   livecheck do
